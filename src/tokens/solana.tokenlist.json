@@ -20508,3 +20508,22 @@
     "instagram": "https://instagram.com/bricksproperties"
   }
 }
+,
+ {
+      "chainId": 101,
+      "address": "PEGDAG5KpGAw66WBeGJcwub17eAyb9A4iFhBADsDJjF",
+      "symbol": "SOLM",
+      "name": "Solanim",
+      "decimals": 8,
+      "logoURI": "https://solanim.com/logo.png",
+      "tags": [
+        "utility-token",
+        "nft"
+      ],
+      "extensions": {
+        "website": "https://solanim.com/",
+        "telegram": "https://t.me/teamsolanim",
+        "twitter": "https://twitter.com/teamsolanim"
+      }
+    }
+    ,
